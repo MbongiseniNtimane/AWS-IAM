@@ -10,6 +10,7 @@ Adding a user ,and adding the user to the group
 ![image alt](https://github.com/MbongiseniNtimane/AWS-IAM/blob/d3adcf86353485a158043426503deffd144f934f/AWS6.png)
 ![image alt](https://github.com/MbongiseniNtimane/AWS-IAM/blob/d3adcf86353485a158043426503deffd144f934f/AWS7.png)
 ![image alt](https://github.com/MbongiseniNtimane/AWS-IAM/blob/d3adcf86353485a158043426503deffd144f934f/AWS8.png)
+Adding Permission Sets (Role Access Control)
 ![image alt](https://github.com/MbongiseniNtimane/AWS-IAM/blob/d3adcf86353485a158043426503deffd144f934f/AWS9.png)
 ![image alt](https://github.com/MbongiseniNtimane/AWS-IAM/blob/d3adcf86353485a158043426503deffd144f934f/AWS10.png)
 
